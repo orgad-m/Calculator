@@ -1,0 +1,52 @@
+div{
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: black;
+padding: 10px 10px 20px 20px;
+width: 215px;
+color: white;
+font-size: 15px;
+border-radius: 10px;
+
+}
+input{
+    background-color: rgb(49, 48, 48);
+    border: 2px solid rgb(49, 48, 48);
+    border-radius: 10px;
+padding: 10px;
+height: 50px;
+width: 158px;
+margin: 10px 10px 10px 8px;
+color: white;
+font-size: 15px;
+
+
+}
+.calc{
+    width: 40px;
+    height: 40px;
+    border-radius: 60px;
+    margin: 3px 3px 3px 3px;
+    background-color: rgb(49, 48, 48);
+    border: 2px solid rgb(49, 48, 48);
+    color: white;
+font-size: 15px;
+
+
+}
+#calcC{
+    width: 88px;
+    background-color: orange;
+    border: 2px solid orange;
+
+}
+#calcQ{
+    width: 88px;
+
+}
+
+body{
+    text-align : center;
+    position : relative;
+    left: 50%;
+}
